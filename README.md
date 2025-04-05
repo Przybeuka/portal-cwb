@@ -110,11 +110,3 @@ npx create-strapi-app@latest portal-cwb-backend --quickstart
 5. Abra um Pull Request
 
 ## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Seu Nome - [@seutwitter](https://twitter.com/seutwitter) - email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/portal-cwb](https://github.com/seu-usuario/portal-cwb)
